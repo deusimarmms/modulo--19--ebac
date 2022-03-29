@@ -457,10 +457,12 @@ h2 {
     margin-bottom: 20px;
 }
 .text__area {
-    height: 200px;
-    padding-top: 20px;
+    height: 150px !important;
+    padding-bottom: 90px;
     border-radius: 20px;
 }
+
+
 /* Form Contato */
 
 .input-group {
